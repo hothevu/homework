@@ -1,6 +1,8 @@
 # What I learned from previous week:
 	
 	
+ ( Continue learning about computer science, the examples using language Python )
+ 
  I learned about chap 2 of Udacity : PROCEDURE
  
  1. What are the inputs?
