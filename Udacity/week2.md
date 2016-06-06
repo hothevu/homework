@@ -14,10 +14,7 @@
  Example:
  	* Find the median number of three number a, b and c
  		+ find_median(2,4,8) => return 4
- 	* Get the second link 
- 	 ```
- 	 ( <a href="www.example.com">Link</a> )
- 	 ```  of page
+ 	* Get the second link of page
  	 
  	 + test `<a href="www.link1.com">Link1</a>` test test `<a href="www.link2.com">Link2</a>` test test `<a href="www.link3.com">Link3</a>` test test
  	 
